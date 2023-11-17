@@ -1,0 +1,13 @@
+name: AQIDashboard
+title: AQIDashboard
+username:
+account: heinzmdsiahaan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10106147
+bundleId: 7925245
+url: https://heinzmdsiahaan.shinyapps.io/AQIDashboard/
+when: 1699957108.63774
+lastSyncTime: 1699957108.63776
+asMultiple: FALSE
+asStatic: FALSE
